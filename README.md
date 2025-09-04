@@ -4,9 +4,9 @@ Write automated tests for a public RESTful API (Sample API documentation: https:
 
 Requirements:
 Implement automated tests to verify the following endpoints:
-GET /posts
-GET /posts/{id}
-POST /posts
+- GET /posts
+- GET /posts/{id}
+- POST /posts
 
 Validate response codes, payload structure, and sample data integrity.
 Show clear, maintainable test assertions.
