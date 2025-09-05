@@ -9,9 +9,9 @@ Implemented automated tests to verify the following endpoints to Validate respon
 - GET /posts/{id}
 - POST /posts
 
-**Write additional automated tests (functional, nonfunctional including negative and edge cases) for a public RESTful API ( https://jsonplaceholder.typicode.com/).
+**Write additional automated tests (functional, nonfunctional including negative and edge cases) for a public RESTful API ( https://jsonplaceholder.typicode.com/).**
 
-Show clear, maintainable test assertions.**
+**Show clear, maintainable test assertions.**
 
 
 
