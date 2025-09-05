@@ -12,4 +12,4 @@ Run tests:
 npm test
 ```
 
-Add tests under `tests/`. Example `tests/placeholder.test.js` included.
+Add additional tests under `tests/`. 
