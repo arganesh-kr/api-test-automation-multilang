@@ -4,7 +4,7 @@ Sample API documentation: https://jsonplaceholder.typicode.com/
 
 Requirements:
 
-Implemented automated tests to verify the following endpoints to Validate response codes, payload structure, and sample data integrity.
+Implemented automated tests to verify the payload structure, and sample data integrity.
 - GET /posts
 - GET /posts/{id}
 - POST /posts
@@ -21,8 +21,8 @@ This repo contains **language-specific** for API test automation in **Java**, **
 Each branch is a ready-to-start project with 3 basic tests (dependencies, config, README) so you can pick your preferred stack.
 
 Branches:
-main_java
-main_javascript
+main_java,
+main_javascript,
 main_python
 
 
