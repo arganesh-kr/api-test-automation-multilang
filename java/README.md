@@ -7,4 +7,4 @@ Run tests:
 mvn -f pom.xml test
 ```
 
-Add tests under `src/test/java`. Example test class skeleton provided as `EXAMPLE_GetPostsTest.java`.
+Add additional tests under `src/test/java`. 
