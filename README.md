@@ -3,15 +3,16 @@
 Sample API documentation: https://jsonplaceholder.typicode.com/
 
 Requirements:
-Implemented automated tests to verify the following endpoints:
+
+Implemented automated tests to verify the following endpoints to Validate response codes, payload structure, and sample data integrity.
 - GET /posts
 - GET /posts/{id}
 - POST /posts
 
-Validated response codes, payload structure, and sample data integrity. 
+**Write additional automated tests (functional, nonfunctional including negative and edge cases) for a public RESTful API ( https://jsonplaceholder.typicode.com/).
 
-**Write additional automated tests (functional, nonfunctional including negative and edge cases) for a public RESTful API (Sample API documentation: https://jsonplaceholder.typicode.com/).
 Show clear, maintainable test assertions.**
+
 
 
 # API Test Automation - Multi-language Scaffold
