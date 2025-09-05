@@ -15,7 +15,7 @@ Implemented automated tests to verify the payload structure, and sample data int
 
 
 
-# API Test Automation - Multi-language
+# API Test Automation - Multi-language Scaffold
 
 This repo contains **language-specific** for API test automation in **Java**, **Python**, and **JavaScript**.  
 Each branch is a ready-to-start project with 3 basic tests (dependencies, config, README) so you can pick your preferred stack.
