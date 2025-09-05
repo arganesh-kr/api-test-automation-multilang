@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class PostsApiTest {
+public class GetPostsTest {
 
     static {
         RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
