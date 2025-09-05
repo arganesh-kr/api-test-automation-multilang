@@ -14,4 +14,4 @@ Run tests:
 pytest
 ```
 
-Add tests under `tests/`. Example `tests/test_placeholder.py` included.
+Add additional tests under `tests/`. 
